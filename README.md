@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://i.imgur.com/9IuWFiQ.png" />
-   <h3 align="center">Hi, I'm LILEnrique! 👋</h3>
+   <h3 align="center">Hi, I'm riqedev! 👋</h3>
 </p>
 
 <p align="center">I'm a <strong>software engineer</strong> and <strong>fullstack developer</strong> with a passion for <strong>photography</strong>.</p>
