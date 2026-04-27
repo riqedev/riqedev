@@ -82,25 +82,6 @@ status:  RUNNING
   <img alt="Figma"        src="https://img.shields.io/badge/Figma-171717?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-### `> stats.log`
-
-<table>
-<tr>
-<td>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=riqedev&show_icons=true&hide_border=true&hide_title=false&bg_color=00000000&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api?username=riqedev&show_icons=true&hide_border=true&hide_title=false&bg_color=00000000&title_color=171717&text_color=525252&icon_color=171717" alt="GitHub stats" />
-</picture>
-</td>
-<td>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=riqedev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a1a1aa" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqedev&layout=compact&hide_border=true&bg_color=00000000&title_color=171717&text_color=525252" alt="Top languages" />
-</picture>
-</td>
-</tr>
-</table>
-
 ### `> transmission.log`
 
 | ch     | channel    | open                                                                  |
