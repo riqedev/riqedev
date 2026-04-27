@@ -1,74 +1,91 @@
+<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
+<!-- │  RIQEDEV  ·  github profile readme  ·  riqedev/riqedev         │ -->
+<!-- └─────────────────────────────────────────────────────────────────┘ -->
+
 <div align="center">
 
-<img src="https://i.imgur.com/9IuWFiQ.png" width="140" alt="riqedev" />
-
-<br /><br />
-
 ```
- ● REC   RIQEDEV   CHL // 38.7°S 72.5°W   ISO AUTO   1/2000   ƒ/2.8   [ RAW ]
+╔══════════════════════════════════════════════════════════════╗
+║  RIQEDEV.                                         ● REC     ║
+║  SOFTWARE ENGINEER  ·  FULL-STACK DEVELOPER       TAKE 01   ║
+║  CHILE  //  38.7397° S, 72.5901° W                ISO AUTO  ║
+║  // 2022 — present                           ƒ/2.8  1/2000  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-## RIQEDEV.
+*Engineering through the lens.*
 
-**Software Engineer & Full-Stack Developer**
-
-`// TAKE 01: Engineering through the lens`
-
-<br />
-
-[![Portfolio](https://img.shields.io/badge/portfolio-riqedev.github.io-000000?style=flat-square&logoColor=white)](https://riqedev.github.io)
-[![Blog](https://img.shields.io/badge/blog-riqedev--blog.vercel.app-000000?style=flat-square&logoColor=white)](https://riqedev-blog.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/linkedin-enriquefcc-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriquefcc/)
-[![Flickr](https://img.shields.io/badge/flickr-breathnshoot-FF0084?style=flat-square&logo=flickr&logoColor=white)](https://www.flickr.com/photos/breathnshoot/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-riqedev.github.io-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://riqedev.github.io)
+[![Blog](https://img.shields.io/badge/Blog-riqedev--blog-111111?style=for-the-badge&logo=rss&logoColor=white)](https://riqedev-blog.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-enriquefcc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriquefcc/)
 
 </div>
 
 ---
 
-`> tail -f /var/log/career.log`
+## `/var/log/career.log`
 
-```log
-[2022-10 / 2022-12] [LOG]  Consultant @ DIRITT UCT
-                           Workshops de innovación. Prototipado de apps móviles.      STATUS: COMPLETED
+```
+$ tail -f /var/log/career.log
 
-[2023-01 / 2023-04] [LOG]  Dev Jr @ Kimval Ingeniería
-                           Plataforma de teleconsulta médica. Java · SQL · ZK.        STATUS: COMPLETED
+[2022-10 / 2022-12] [LOG]  ➜  Consultant @ DIRITT UCT
+    Details: Innovation workshops for high school students; mobile app prototyping.
+    Status:  COMPLETED ✓
 
-[2023-08 / present] [INFO] Software Engineer @ CTR                                   ● RUNNING
-                           IoT · React web · React Native · Dashboards en tiempo real
-                           REST APIs · Python · Node.js · PHP backend
+[2023-01 / 2023-04] [LOG]  ➜  Dev Jr @ Kimval Ingeniería
+    Details: Medical teleconsult platform. Full-stack: Java, SQL, ZK Framework.
+    Status:  COMPLETED ✓
+
+[2023-08 / present] [INFO] ➜  Software Engineer @ CTR
+    Details: IoT solutions, real-time dashboards, REST APIs.
+             React (web) · React Native (mobile) · Python / Node.js / PHP backends.
+    Status:  RUNNING ●
 ```
 
 ---
 
-`> cat package.json`
+## `package.json`
 
 ```json
 {
   "name": "riqedev",
   "role": "Software Engineer",
   "location": "Temuco, Chile",
-  "dependencies": [
-    "Python", "Node.js", "React", "React Native",
-    "TypeScript", "Java", "PHP", "SQL", "NoSQL"
-  ],
-  "devDependencies": [
-    "TailwindCSS", "Vite", "Expo", "FastAPI",
-    "Express", "Docker", "Firebase", "Figma", "Git"
-  ]
+  "dependencies": {
+    "languages":  ["Python", "Node.js", "TypeScript", "Java", "PHP", "SQL", "NoSQL"],
+    "frontend":   ["React", "React Native", "TailwindCSS", "Vite", "Expo"],
+    "backend":    ["Express", "FastAPI", "Laravel"],
+    "databases":  ["PostgreSQL", "MySQL", "MongoDB", "Firebase"]
+  },
+  "devDependencies": ["Figma", "Docker", "Git", "Vercel", "PM2"]
 }
 ```
 
 ---
 
+## Outside the code
+
+| | |
+|:---:|:---|
+| 📷 | **Photography** — [Flickr / breathnshoot](https://www.flickr.com/photos/breathnshoot/) |
+| ⌨️ | **Mechanical keyboards** |
+| 🚴 | **Cycling** |
+| 📝 | **Writing** — [riqedev-blog.vercel.app](https://riqedev-blog.vercel.app/) |
+
+---
+
 <div align="center">
 
-**Fuera del código**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riqedev&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=666666&text_color=888888&rank_icon=github)
 
-📷 [Fotografía](https://www.flickr.com/photos/breathnshoot/) &nbsp;·&nbsp; ⌨️ Mech Keebs &nbsp;·&nbsp; 🚲 Ciclismo &nbsp;·&nbsp; 📝 [Blog](https://riqedev-blog.vercel.app)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riqedev&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=8)
 
-<br />
+</div>
 
-`AF-C  WIDE   [ 100% ]`
+---
+
+<div align="center">
+
+`[ RIQEDEV  ·  TAKE 01  ·  ENGINEERING THROUGH THE LENS ]`
 
 </div>
