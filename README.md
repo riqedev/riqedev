@@ -1,54 +1,74 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://i.imgur.com/9IuWFiQ.png" />
-   <h3 align="center">Hi, I'm riqedev! 👋</h3>
-</p>
+<div align="center">
 
-<p align="center">I'm a <strong>software engineer</strong> and <strong>fullstack developer</strong> with a passion for <strong>photography</strong>.</p>
+<img src="https://i.imgur.com/9IuWFiQ.png" width="140" alt="riqedev" />
 
-## About Me 🧑‍💻
+<br /><br />
 
-- 🌟 Software Engineer.
-- 😺 Cat Lover.
-- 📷 Capturing moments and telling stories through the lens.
-- 🌍 Based in Temuco, Chile.
+```
+ ● REC   RIQEDEV   CHL // 38.7°S 72.5°W   ISO AUTO   1/2000   ƒ/2.8   [ RAW ]
+```
 
-## Skills 💻
+## RIQEDEV.
 
-- 🖥️ Frontend: HTML, CSS, JavaScript, React, TailwindCSS.
-- 🖧 Backend: Node.js, Python, PHP, Java.
-- 💾 Databases: MySQL, MongoDB.
-- 🚀 Version Control: Git, GitHub.
+**Software Engineer & Full-Stack Developer**
 
-## Photography 📷
+`// TAKE 01: Engineering through the lens`
 
-Photography is one of my hobbies, and I enjoy capturing moments and telling stories through images. You can find some of my favorite photographs on:
+<br />
 
-- [Flickr](https://www.flickr.com/photos/breathnshoot/)
+[![Portfolio](https://img.shields.io/badge/portfolio-riqedev.github.io-000000?style=flat-square&logoColor=white)](https://riqedev.github.io)
+[![Blog](https://img.shields.io/badge/blog-riqedev--blog.vercel.app-000000?style=flat-square&logoColor=white)](https://riqedev-blog.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-enriquefcc-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriquefcc/)
+[![Flickr](https://img.shields.io/badge/flickr-breathnshoot-FF0084?style=flat-square&logo=flickr&logoColor=white)](https://www.flickr.com/photos/breathnshoot/)
 
-## Connect with Me 📧
+</div>
 
-Let's connect and collaborate! You can find me on:
+---
 
-- [LinkedIn](https://www.linkedin.com/in/enriquefcc/)
-- [Portfolio](https://lilenrique.github.io/)
+`> tail -f /var/log/career.log`
 
+```log
+[2022-10 / 2022-12] [LOG]  Consultant @ DIRITT UCT
+                           Workshops de innovación. Prototipado de apps móviles.      STATUS: COMPLETED
 
-Looking forward to exploring new opportunities and creating amazing things together!
+[2023-01 / 2023-04] [LOG]  Dev Jr @ Kimval Ingeniería
+                           Plataforma de teleconsulta médica. Java · SQL · ZK.        STATUS: COMPLETED
 
+[2023-08 / present] [INFO] Software Engineer @ CTR                                   ● RUNNING
+                           IoT · React web · React Native · Dashboards en tiempo real
+                           REST APIs · Python · Node.js · PHP backend
+```
 
+---
 
+`> cat package.json`
 
-<!--
-**LILEnrique/LILEnrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+  "name": "riqedev",
+  "role": "Software Engineer",
+  "location": "Temuco, Chile",
+  "dependencies": [
+    "Python", "Node.js", "React", "React Native",
+    "TypeScript", "Java", "PHP", "SQL", "NoSQL"
+  ],
+  "devDependencies": [
+    "TailwindCSS", "Vite", "Expo", "FastAPI",
+    "Express", "Docker", "Firebase", "Figma", "Git"
+  ]
+}
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+**Fuera del código**
+
+📷 [Fotografía](https://www.flickr.com/photos/breathnshoot/) &nbsp;·&nbsp; ⌨️ Mech Keebs &nbsp;·&nbsp; 🚲 Ciclismo &nbsp;·&nbsp; 📝 [Blog](https://riqedev-blog.vercel.app)
+
+<br />
+
+`AF-C  WIDE   [ 100% ]`
+
+</div>
