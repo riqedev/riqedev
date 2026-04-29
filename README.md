@@ -15,10 +15,10 @@
 </td>
 <td align="right" width="33%">
 
-<img alt="RAW"  src="https://img.shields.io/badge/RAW-171717?style=flat-square" />
-<img alt="ISO" src="https://img.shields.io/badge/ISO-AUTO-171717?style=flat-square&labelColor=262626" />
+<img alt="RAW"    src="https://img.shields.io/badge/RAW-171717?style=flat-square" />
+<img alt="ISO"    src="https://img.shields.io/badge/ISO-AUTO-171717?style=flat-square&labelColor=262626" />
 <img alt="1/2000" src="https://img.shields.io/badge/-1%2F2000-171717?style=flat-square" />
-<img alt="f/2.8" src="https://img.shields.io/badge/%C6%92-2.8-171717?style=flat-square" />
+<img alt="f/2.8"  src="https://img.shields.io/badge/%C6%92-2.8-171717?style=flat-square" />
 
 </td>
 </tr>
@@ -27,6 +27,8 @@
 <!-- ───────────────────────  CINEMATIC TITLE  ─────────────────────── -->
 
 <div align="center">
+
+<img src="https://i.imgur.com/9IuWFiQ.png" width="150" alt="riqedev" /><br/><br/>
 
 <h1>RIQEDEV<sub>.</sub></h1>
 
@@ -134,53 +136,17 @@
 
 ---
 
-### `> metrics.live`
-
-<table width="100%" align="center" border="0">
-<tr>
-<td align="center" width="50%">
-
-<a href="https://github.com/riqedev">
-  <img alt="riqedev stats" src="https://github-readme-stats.vercel.app/api?username=riqedev&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff&include_all_commits=true&count_private=true" />
-</a>
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://github.com/riqedev">
-  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqedev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b8b&langs_count=8" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<a href="https://github.com/riqedev">
-  <img alt="streak" src="https://streak-stats.demolab.com/?user=riqedev&theme=transparent&hide_border=true&background=00000000&stroke=8b8b8b&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=8b8b8b&sideLabels=8b8b8b&dates=8b8b8b" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<a href="https://github.com/riqedev">
-  <img alt="contribution timeline" src="https://github-readme-activity-graph.vercel.app/graph?username=riqedev&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=ROLL+01+//+CONTRIBUTION+TIMELINE" width="100%" />
-</a>
-
----
-
 ### `> transmission.log`
 
 <sub><code>&gt; opening channels...</code></sub>
 
-| ch     | channel    | action                                                        |
-| :----- | :--------- | :------------------------------------------------------------ |
-| `[01]` | Portfolio  | [Open ↗](https://riqedev.github.io)                           |
-| `[02]` | Blog       | [Open ↗](https://riqedev-blog.vercel.app/)                    |
-| `[03]` | LinkedIn   | [Open ↗](https://www.linkedin.com/in/enriquefcc/)             |
-| `[04]` | Email      | [Send ↗](mailto:philiphcc@gmail.com)                          |
-| `[05]` | Flickr     | [Open ↗](https://www.flickr.com/photos/breathnshoot/)         |
+| ch     | channel | action |
+| :----- | :------ | :----- |
+| `[01]` | [![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=github&logoColor=white)](https://riqedev.github.io) | [![Open ↗](https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square)](https://riqedev.github.io) |
+| `[02]` | [![Blog](https://img.shields.io/badge/Blog-171717?style=flat-square&logo=vercel&logoColor=white)](https://riqedev-blog.vercel.app/) | [![Open ↗](https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square)](https://riqedev-blog.vercel.app/) |
+| `[03]` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriquefcc/) | [![Open ↗](https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square)](https://www.linkedin.com/in/enriquefcc/) |
+| `[04]` | [![Email](https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=white)](mailto:philiphcc@gmail.com) | [![Send ↗](https://img.shields.io/badge/Send%20%E2%86%97-262626?style=flat-square)](mailto:philiphcc@gmail.com) |
+| `[05]` | [![Flickr](https://img.shields.io/badge/Flickr-171717?style=flat-square&logo=flickr&logoColor=white)](https://www.flickr.com/photos/breathnshoot/) | [![Open ↗](https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square)](https://www.flickr.com/photos/breathnshoot/) |
 
 <sub><code>&gt; _</code></sub>
 
