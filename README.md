@@ -101,9 +101,22 @@
   <img alt="SQL"        src="https://img.shields.io/badge/SQL-171717?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
+<div align="center">
+
+<sub><code>// dependencies &middot; languages</code></sub>
+
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Python"     src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java"       src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="PHP"        src="https://img.shields.io/badge/PHP-171717?style=flat-square&logo=php&logoColor=white" />
+  <img alt="SQL"        src="https://img.shields.io/badge/SQL-171717?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
 <sub><code>// dependencies &middot; frontend</code></sub>
 
-<p>
+<p align="center">
   <img alt="React"        src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-171717?style=flat-square&logo=react&logoColor=white" />
   <img alt="Astro"        src="https://img.shields.io/badge/Astro-171717?style=flat-square&logo=astro&logoColor=white" />
@@ -115,7 +128,7 @@
 
 <sub><code>// dependencies &middot; backend &amp; data</code></sub>
 
-<p>
+<p align="center">
   <img alt="Node.js"  src="https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="Express"  src="https://img.shields.io/badge/Express-171717?style=flat-square&logo=express&logoColor=white" />
   <img alt="FastAPI"  src="https://img.shields.io/badge/FastAPI-171717?style=flat-square&logo=fastapi&logoColor=white" />
@@ -126,7 +139,7 @@
 
 <sub><code>// devDependencies &middot; tooling</code></sub>
 
-<p>
+<p align="center">
   <img alt="Git"    src="https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=white" />
   <img alt="PM2"    src="https://img.shields.io/badge/PM2-171717?style=flat-square&logo=pm2&logoColor=white" />
@@ -134,21 +147,55 @@
   <img alt="Figma"  src="https://img.shields.io/badge/Figma-171717?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
+</div>
+
 ---
 
 ### `> transmission.log`
 
 <sub><code>&gt; opening channels...</code></sub>
 
-| ch     | channel | action |
-| :----- | :------ | :----- |
-| `[01]` | [![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=github&logoColor=white)](https://riqedev.github.io) | [![Open ↗](https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square)](https://riqedev.github.io) |
-| `[02]` | [![Blog](https://img.shields.io/badge/Blog-171717?style=flat-square&logo=vercel&logoColor=white)](https://riqedev-blog.vercel.app/) | [![Open ↗](https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square)](https://riqedev-blog.vercel.app/) |
-| `[03]` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriquefcc/) | [![Open ↗](https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square)](https://www.linkedin.com/in/enriquefcc/) |
-| `[04]` | [![Email](https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=white)](mailto:philiphcc@gmail.com) | [![Send ↗](https://img.shields.io/badge/Send%20%E2%86%97-262626?style=flat-square)](mailto:philiphcc@gmail.com) |
-| `[05]` | [![Flickr](https://img.shields.io/badge/Flickr-171717?style=flat-square&logo=flickr&logoColor=white)](https://www.flickr.com/photos/breathnshoot/) | [![Open ↗](https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square)](https://www.flickr.com/photos/breathnshoot/) |
+<div align="center">
+<table width="85%">
+<thead>
+<tr>
+<th align="left">ch</th>
+<th align="left">channel</th>
+<th align="left">action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>[01]</code></td>
+<td><a href="https://riqedev.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://riqedev.github.io"><img alt="Open ↗" src="https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square" /></a></td>
+</tr>
+<tr>
+<td><code>[02]</code></td>
+<td><a href="https://riqedev-blog.vercel.app/"><img alt="Blog" src="https://img.shields.io/badge/Blog-171717?style=flat-square&logo=vercel&logoColor=white" /></a></td>
+<td><a href="https://riqedev-blog.vercel.app/"><img alt="Open ↗" src="https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square" /></a></td>
+</tr>
+<tr>
+<td><code>[03]</code></td>
+<td><a href="https://www.linkedin.com/in/enriquefcc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white" /></a></td>
+<td><a href="https://www.linkedin.com/in/enriquefcc/"><img alt="Open ↗" src="https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square" /></a></td>
+</tr>
+<tr>
+<td><code>[04]</code></td>
+<td><a href="mailto:philiphcc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=white" /></a></td>
+<td><a href="mailto:philiphcc@gmail.com"><img alt="Send ↗" src="https://img.shields.io/badge/Send%20%E2%86%97-262626?style=flat-square" /></a></td>
+</tr>
+<tr>
+<td><code>[05]</code></td>
+<td><a href="https://www.flickr.com/photos/breathnshoot/"><img alt="Flickr" src="https://img.shields.io/badge/Flickr-171717?style=flat-square&logo=flickr&logoColor=white" /></a></td>
+<td><a href="https://www.flickr.com/photos/breathnshoot/"><img alt="Open ↗" src="https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square" /></a></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <sub><code>&gt; _</code></sub>
+
 
 <!-- ───────────────────────  SMPTE BARS DIVIDER  ─────────────────────── -->
 
