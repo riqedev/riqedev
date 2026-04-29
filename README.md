@@ -90,17 +90,6 @@
 }
 ```
 
-<sub><code>// dependencies &middot; languages</code></sub>
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Python"     src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java"       src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="PHP"        src="https://img.shields.io/badge/PHP-171717?style=flat-square&logo=php&logoColor=white" />
-  <img alt="SQL"        src="https://img.shields.io/badge/SQL-171717?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
 <div align="center">
 
 <sub><code>// dependencies &middot; languages</code></sub>
