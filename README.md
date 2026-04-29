@@ -169,13 +169,7 @@
 <td><a href="https://www.linkedin.com/in/enriquefcc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white" /></a></td>
 <td><a href="https://www.linkedin.com/in/enriquefcc/"><img alt="Open ↗" src="https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square" /></a></td>
 </tr>
-<tr>
 <td><code>[04]</code></td>
-<td><a href="mailto:philiphcc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=white" /></a></td>
-<td><a href="mailto:philiphcc@gmail.com"><img alt="Send ↗" src="https://img.shields.io/badge/Send%20%E2%86%97-262626?style=flat-square" /></a></td>
-</tr>
-<tr>
-<td><code>[05]</code></td>
 <td><a href="https://www.flickr.com/photos/breathnshoot/"><img alt="Flickr" src="https://img.shields.io/badge/Flickr-171717?style=flat-square&logo=flickr&logoColor=white" /></a></td>
 <td><a href="https://www.flickr.com/photos/breathnshoot/"><img alt="Open ↗" src="https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square" /></a></td>
 </tr>
