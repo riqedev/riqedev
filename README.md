@@ -41,7 +41,7 @@
 <br/><br/>
 
 <a href="https://riqedev.github.io">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%40+CTR;IoT+solutions+%2F+real-time+dashboards+%2F+mobile;Full-Stack%3A+React+%C2%B7+React+Native+%C2%B7+Python+%C2%B7+Node.js;%2F%2F+2022+%E2%80%94+present&font=JetBrains%20Mono&center=true&vCenter=true&width=720&height=42&size=16&pause=1200&color=8B8B8B" alt="now recording" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+CTR;IoT+solutions+%2F+real-time+dashboards+%2F+mobile;Full-Stack%3A+React+%C2%B7+React+Native+%C2%B7+Python+%C2%B7+Node.js;%2F%2F+2022+%E2%80%94+present&font=JetBrains%20Mono&center=true&vCenter=true&width=720&height=42&size=16&pause=1200&color=8B8B8B" alt="now recording" />
 </a>
 
 </div>
@@ -82,14 +82,14 @@
 
 | file | project | stack | open |
 | :-- | :-- | :-- | :-- |
-| `100-0001` | **RIQE Virtual Lens Lab** <br/><sub>Simulador de óptica de cámara en tiempo real: bokeh, profundidad de campo, distorsión y viñeteo.</sub> | `R3F` `TypeScript` | [demo ↗](https://riqe-lab.vercel.app/) · [src ↗](https://github.com/riqedev/riqe-lab) |
-| `100-0002` | **Enerlytics** <br/><sub>Dashboard de consumo energético: horas críticas y ventanas óptimas de carga.</sub> | `React` `Recharts` | [src ↗](https://github.com/riqedev/Enerlytics) |
-| `100-0003` | **DMA** <br/><sub>Plataforma educativa para diseñar clases sobre la taxonomía SOLO.</sub> | `React` `MongoDB` | [live ↗](http://dma2.uct.cl/) |
-| `100-0004` | **Weather App** <br/><sub>Clima en tiempo real con búsqueda por ciudad.</sub> | `React` `Tailwind` | [src ↗](https://github.com/riqedev/Weather-App-ReactJS-TailwindCSS) |
-| `100-0005` | **Teleprocesos** <br/><sub>Consultas telemáticas para instituciones de salud.</sub> | `Java` `ZK` | <sub>private</sub> |
-| `100-0006` | **MACD** <br/><sub>Campos dinámicos en formularios sin alterar el esquema de la BD.</sub> | `PHP` `Laravel` | [src ↗](https://github.com/riqedev/Modulo-Administrador-De-Campos-Dinamicos) |
-| `100-0007` | **Detector de células** <br/><sub>Sistema embebido que detecta y clasifica células con visión por computador.</sub> | `Python` `OpenCV` | [src ↗](https://github.com/riqedev/Cells) |
-| `100-0008` | **Todo App** <br/><sub>CRUD de tareas con persistencia en tiempo real.</sub> | `React` `Firebase` | [src ↗](https://github.com/riqedev/Todo-App-ReactJS-TailwindCSS-Firebase) |
+| `100‑0001` | **RIQE Virtual Lens Lab** <br/><sub>Simulador de óptica de cámara en tiempo real: bokeh, profundidad de campo, distorsión y viñeteo.</sub> | `R3F` `TypeScript` | [demo ↗](https://riqe-lab.vercel.app/) · [src ↗](https://github.com/riqedev/riqe-lab) |
+| `100‑0002` | **Enerlytics** <br/><sub>Dashboard de consumo energético: horas críticas y ventanas óptimas de carga.</sub> | `React` `Recharts` | [src ↗](https://github.com/riqedev/Enerlytics) |
+| `100‑0003` | **DMA** <br/><sub>Plataforma educativa para diseñar clases sobre la taxonomía SOLO.</sub> | `React` `MongoDB` | [live ↗](http://dma2.uct.cl/) |
+| `100‑0004` | **Weather App** <br/><sub>Clima en tiempo real con búsqueda por ciudad.</sub> | `React` `Tailwind` | [src ↗](https://github.com/riqedev/Weather-App-ReactJS-TailwindCSS) |
+| `100‑0005` | **Teleprocesos** <br/><sub>Consultas telemáticas para instituciones de salud.</sub> | `Java` `ZK` | <sub>private</sub> |
+| `100‑0006` | **MACD** <br/><sub>Campos dinámicos en formularios sin alterar el esquema de la BD.</sub> | `PHP` `Laravel` | [src ↗](https://github.com/riqedev/Modulo-Administrador-De-Campos-Dinamicos) |
+| `100‑0007` | **Detector de células** <br/><sub>Sistema embebido que detecta y clasifica células con visión por computador.</sub> | `Python` `OpenCV` | [src ↗](https://github.com/riqedev/Cells) |
+| `100‑0008` | **Todo App** <br/><sub>CRUD de tareas con persistencia en tiempo real.</sub> | `React` `Firebase` | [src ↗](https://github.com/riqedev/Todo-App-ReactJS-TailwindCSS-Firebase) |
 
 <sub><code>&gt; playback completo en</code> <a href="https://riqedev.github.io/work">riqedev.github.io/work</a></sub>
 
