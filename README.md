@@ -19,7 +19,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/wordmark-dark.png" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/wordmark-light.png" />
-      <img src="./assets/wordmark-dark.png" width="640" align="top" alt="RIQEDEV. Software Engineer // Full-Stack Developer" />
+      <img src="./assets/wordmark-dark.png" width="560" align="top" alt="riqedev. Software Engineer // Full-Stack Developer" />
     </picture>
   </a>
 </p>
