@@ -14,7 +14,7 @@
 </td>
 <td align="right" width="33%">
 
-<img alt="RAW" src="https://img.shields.io/badge/RAW-171717?style=flat-square" /><br/><sub><code>AF-C  WIDE</code></sub>
+<img alt="RAW" src="https://img.shields.io/badge/RAW-171717?style=flat-square" /><br/><sub><code>AF-C&nbsp;WIDE</code></sub>
 
 </td>
 </tr>
