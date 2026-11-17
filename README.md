@@ -4,19 +4,17 @@
 <tr>
 <td align="left" width="33%">
 
-<sub><code>RIQEDEV</code></sub><br/>
-<img alt="REC" src="https://img.shields.io/badge/%E2%97%8F_REC-DC2626?style=flat-square&labelColor=171717" />
+<sub><code>RIQEDEV</code></sub><br/><img alt="REC" src="https://img.shields.io/badge/%E2%97%8F_REC-DC2626?style=flat-square&labelColor=171717" />
 
 </td>
 <td align="center" width="34%">
 
-<sub><code>CHILE  //  38.7397° S, 72.5901° W</code></sub>
+<sub><code>CHILE // 38.7° S</code></sub>
 
 </td>
 <td align="right" width="33%">
 
-<img alt="RAW" src="https://img.shields.io/badge/RAW-171717?style=flat-square" /> <img alt="4K 24p" src="https://img.shields.io/badge/4K-24p-171717?style=flat-square&labelColor=262626" /> <img alt="Battery 100%" src="https://img.shields.io/badge/%E2%96%AE-100%25-171717?style=flat-square&labelColor=262626" /><br/>
-<sub><code>AF-C  WIDE</code></sub>
+<img alt="RAW" src="https://img.shields.io/badge/RAW-171717?style=flat-square" /><br/><sub><code>AF-C  WIDE</code></sub>
 
 </td>
 </tr>
@@ -27,6 +25,10 @@
 <div align="center">
 
 <br/>
+
+<img src="./assets/portrait.png" width="150" alt="Enrique, riqedev" />
+
+<br/><br/>
 
 <a href="https://riqedev.github.io">
   <picture>
@@ -73,25 +75,6 @@
     Details: IoT solutions, React web & React Native mobile. Dashboards, REST APIs, Python/Node.js backend.
     > Status: RUNNING
 ```
-
----
-
-### `> ls ./archive`
-
-<sub><code>ARCHIVE // CATALOG // 8 FILES</code></sub>
-
-| file | project | stack | open |
-| :-- | :-- | :-- | :-- |
-| `100‑0001` | **RIQE Virtual Lens Lab** <br/><sub>Simulador de óptica de cámara en tiempo real: bokeh, profundidad de campo, distorsión y viñeteo.</sub> | `R3F` `TypeScript` | [demo ↗](https://riqe-lab.vercel.app/) · [src ↗](https://github.com/riqedev/riqe-lab) |
-| `100‑0002` | **Enerlytics** <br/><sub>Dashboard de consumo energético: horas críticas y ventanas óptimas de carga.</sub> | `React` `Recharts` | [src ↗](https://github.com/riqedev/Enerlytics) |
-| `100‑0003` | **DMA** <br/><sub>Plataforma educativa para diseñar clases sobre la taxonomía SOLO.</sub> | `React` `MongoDB` | [live ↗](http://dma2.uct.cl/) |
-| `100‑0004` | **Weather App** <br/><sub>Clima en tiempo real con búsqueda por ciudad.</sub> | `React` `Tailwind` | [src ↗](https://github.com/riqedev/Weather-App-ReactJS-TailwindCSS) |
-| `100‑0005` | **Teleprocesos** <br/><sub>Consultas telemáticas para instituciones de salud.</sub> | `Java` `ZK` | <sub>private</sub> |
-| `100‑0006` | **MACD** <br/><sub>Campos dinámicos en formularios sin alterar el esquema de la BD.</sub> | `PHP` `Laravel` | [src ↗](https://github.com/riqedev/Modulo-Administrador-De-Campos-Dinamicos) |
-| `100‑0007` | **Detector de células** <br/><sub>Sistema embebido que detecta y clasifica células con visión por computador.</sub> | `Python` `OpenCV` | [src ↗](https://github.com/riqedev/Cells) |
-| `100‑0008` | **Todo App** <br/><sub>CRUD de tareas con persistencia en tiempo real.</sub> | `React` `Firebase` | [src ↗](https://github.com/riqedev/Todo-App-ReactJS-TailwindCSS-Firebase) |
-
-<sub><code>&gt; playback completo en</code> <a href="https://riqedev.github.io/work">riqedev.github.io/work</a></sub>
 
 ---
 
