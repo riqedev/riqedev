@@ -4,12 +4,12 @@
 <tr>
 <td align="left" width="33%">
 
-<sub><code>RIQEDEV</code></sub><br/><img alt="REC" src="https://img.shields.io/badge/%E2%97%8F_REC-DC2626?style=flat-square&labelColor=171717" />
+<sub><code>RIQEDEV</code></sub><br/><img alt="REC" src="https://img.shields.io/badge/%E2%97%8F_REC-DC2626?style=flat-square" />
 
 </td>
 <td align="center" width="34%">
 
-<sub><code>CHILE // 38.7° S</code></sub>
+<sub><code>CHILE&nbsp;//&nbsp;38.7°&nbsp;S</code></sub>
 
 </td>
 <td align="right" width="33%">
@@ -205,13 +205,13 @@
 <tr>
 <td align="left" width="60%">
 
-<sub><code>(●)  1/2000  F2.8  ±0.0  ISO AUTO</code></sub><br/>
+<sub><code>(●)&nbsp;&nbsp;1/2000&nbsp;&nbsp;F2.8&nbsp;&nbsp;±0.0&nbsp;&nbsp;ISO&nbsp;AUTO</code></sub><br/>
 <sub><code>BARS &amp; TONE</code></sub>
 
 </td>
 <td align="right" width="40%">
 
-<sub><code>MENU  →  riqedev.github.io</code></sub><br/>
+<sub><code>MENU&nbsp;→&nbsp;riqedev.github.io</code></sub><br/>
 <sub><code>END OF ROLL</code></sub>
 
 </td>
