@@ -1,10 +1,10 @@
-<!-- ───────────────────────  HUD HEADER  ─────────────────────── -->
+<!-- ───────────────────────  HUD HEADER (Sony α6400 · movie)  ─────────────────────── -->
 
 <table width="100%" align="center">
 <tr>
 <td align="left" width="33%">
 
-<sub><code>RIQEDEV.</code></sub><br/>
+<sub><code>RIQEDEV</code></sub><br/>
 <img alt="REC" src="https://img.shields.io/badge/%E2%97%8F_REC-DC2626?style=flat-square&labelColor=171717" />
 
 </td>
@@ -15,29 +15,33 @@
 </td>
 <td align="right" width="33%">
 
-<img alt="RAW"    src="https://img.shields.io/badge/RAW-171717?style=flat-square" />
-<img alt="ISO"    src="https://img.shields.io/badge/ISO-AUTO-171717?style=flat-square&labelColor=262626" />
-<img alt="1/2000" src="https://img.shields.io/badge/-1%2F2000-171717?style=flat-square" />
-<img alt="f/2.8"  src="https://img.shields.io/badge/%C6%92-2.8-171717?style=flat-square" />
+<img alt="RAW" src="https://img.shields.io/badge/RAW-171717?style=flat-square" /> <img alt="4K 24p" src="https://img.shields.io/badge/4K-24p-171717?style=flat-square&labelColor=262626" /> <img alt="Battery 100%" src="https://img.shields.io/badge/%E2%96%AE-100%25-171717?style=flat-square&labelColor=262626" /><br/>
+<sub><code>AF-C  WIDE</code></sub>
 
 </td>
 </tr>
 </table>
 
-<!-- ───────────────────────  CINEMATIC TITLE  ─────────────────────── -->
+<!-- ───────────────────────  WORDMARK  ─────────────────────── -->
 
 <div align="center">
 
-<img src="https://i.imgur.com/9IuWFiQ.png" width="150" alt="riqedev" /><br/><br/>
+<br/>
 
-<h1>RIQEDEV<sub>.</sub></h1>
+<a href="https://riqedev.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/wordmark-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/wordmark-light.png" />
+    <img src="./assets/wordmark-dark.png" width="760" alt="RIQEDEV. Software Engineer // Full-Stack Developer" />
+  </picture>
+</a>
 
 <sub><code>// TAKE 01 &mdash; ENGINEERING THROUGH THE LENS</code></sub>
 
 <br/><br/>
 
 <a href="https://riqedev.github.io">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%40+CTR;IoT+solutions+%2F+real-time+dashboards+%2F+mobile;Full-Stack%3A+React+%C2%B7+React+Native+%C2%B7+Python+%C2%B7+Node.js;%2F%2F+2022+%E2%80%94+present&font=Fira%20Code&center=true&vCenter=true&width=720&height=42&size=16&pause=1200&color=8B8B8B" alt="now recording" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%40+CTR;IoT+solutions+%2F+real-time+dashboards+%2F+mobile;Full-Stack%3A+React+%C2%B7+React+Native+%C2%B7+Python+%C2%B7+Node.js;%2F%2F+2022+%E2%80%94+present&font=JetBrains%20Mono&center=true&vCenter=true&width=720&height=42&size=16&pause=1200&color=8B8B8B" alt="now recording" />
 </a>
 
 </div>
@@ -47,7 +51,7 @@
 <p align="center">
   <img alt="ROLL 01"        src="https://img.shields.io/badge/ROLL-01-171717?style=flat-square&labelColor=262626" />
   <img alt="TAKE 01"        src="https://img.shields.io/badge/TAKE-01-171717?style=flat-square&labelColor=262626" />
-  <img alt="STATUS RUNNING" src="https://img.shields.io/badge/STATUS-RUNNING-16A34A?style=flat-square&labelColor=171717" />
+  <img alt="STATUS RUNNING" src="https://img.shields.io/badge/STATUS-RUNNING-267F47?style=flat-square&labelColor=171717" />
   <img alt="LANG EN/ES"     src="https://img.shields.io/badge/LANG-EN%20%2F%20ES-171717?style=flat-square&labelColor=262626" />
   <img alt="FRAMES"         src="https://komarev.com/ghpvc/?username=riqedev&label=FRAMES&color=171717&style=flat-square" />
 </p>
@@ -69,6 +73,25 @@
     Details: IoT solutions, React web & React Native mobile. Dashboards, REST APIs, Python/Node.js backend.
     > Status: RUNNING
 ```
+
+---
+
+### `> ls ./archive`
+
+<sub><code>ARCHIVE // CATALOG // 8 FILES</code></sub>
+
+| file | project | stack | open |
+| :-- | :-- | :-- | :-- |
+| `100-0001` | **RIQE Virtual Lens Lab** <br/><sub>Simulador de óptica de cámara en tiempo real: bokeh, profundidad de campo, distorsión y viñeteo.</sub> | `R3F` `TypeScript` | [demo ↗](https://riqe-lab.vercel.app/) · [src ↗](https://github.com/riqedev/riqe-lab) |
+| `100-0002` | **Enerlytics** <br/><sub>Dashboard de consumo energético: horas críticas y ventanas óptimas de carga.</sub> | `React` `Recharts` | [src ↗](https://github.com/riqedev/Enerlytics) |
+| `100-0003` | **DMA** <br/><sub>Plataforma educativa para diseñar clases sobre la taxonomía SOLO.</sub> | `React` `MongoDB` | [live ↗](http://dma2.uct.cl/) |
+| `100-0004` | **Weather App** <br/><sub>Clima en tiempo real con búsqueda por ciudad.</sub> | `React` `Tailwind` | [src ↗](https://github.com/riqedev/Weather-App-ReactJS-TailwindCSS) |
+| `100-0005` | **Teleprocesos** <br/><sub>Consultas telemáticas para instituciones de salud.</sub> | `Java` `ZK` | <sub>private</sub> |
+| `100-0006` | **MACD** <br/><sub>Campos dinámicos en formularios sin alterar el esquema de la BD.</sub> | `PHP` `Laravel` | [src ↗](https://github.com/riqedev/Modulo-Administrador-De-Campos-Dinamicos) |
+| `100-0007` | **Detector de células** <br/><sub>Sistema embebido que detecta y clasifica células con visión por computador.</sub> | `Python` `OpenCV` | [src ↗](https://github.com/riqedev/Cells) |
+| `100-0008` | **Todo App** <br/><sub>CRUD de tareas con persistencia en tiempo real.</sub> | `React` `Firebase` | [src ↗](https://github.com/riqedev/Todo-App-ReactJS-TailwindCSS-Firebase) |
+
+<sub><code>&gt; playback completo en</code> <a href="https://riqedev.github.io/work">riqedev.github.io/work</a></sub>
 
 ---
 
@@ -169,6 +192,7 @@
 <td><a href="https://www.linkedin.com/in/enriquefcc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white" /></a></td>
 <td><a href="https://www.linkedin.com/in/enriquefcc/"><img alt="Open ↗" src="https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square" /></a></td>
 </tr>
+<tr>
 <td><code>[04]</code></td>
 <td><a href="https://www.flickr.com/photos/breathnshoot/"><img alt="Flickr" src="https://img.shields.io/badge/Flickr-171717?style=flat-square&logo=flickr&logoColor=white" /></a></td>
 <td><a href="https://www.flickr.com/photos/breathnshoot/"><img alt="Open ↗" src="https://img.shields.io/badge/Open%20%E2%86%97-262626?style=flat-square" /></a></td>
@@ -192,19 +216,19 @@
   <img src="https://placehold.co/110x10/c8c8c8/c8c8c8.png" alt="" />
 </p>
 
-<!-- ───────────────────────  HUD FOOTER  ─────────────────────── -->
+<!-- ───────────────────────  HUD FOOTER (exposure readout)  ─────────────────────── -->
 
 <table width="100%" align="center">
 <tr>
-<td align="left" width="50%">
+<td align="left" width="60%">
 
-<sub><code>AF-C  WIDE</code></sub><br/>
+<sub><code>(●)  1/2000  F2.8  ±0.0  ISO AUTO</code></sub><br/>
 <sub><code>BARS &amp; TONE</code></sub>
 
 </td>
-<td align="right" width="50%">
+<td align="right" width="40%">
 
-<sub><code>[ 100% ]</code></sub><br/>
+<sub><code>MENU  →  riqedev.github.io</code></sub><br/>
 <sub><code>END OF ROLL</code></sub>
 
 </td>
